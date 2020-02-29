@@ -1,3 +1,8 @@
 body {
-    /* background-color: lightblue; */
+    /* background: url(https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537_960_720.jpg); */
+    /* background: url(https://cdn.pixabay.com/photo/2014/12/15/14/05/home-office-569153_960_720.jpg); */
+    background-image: url("../images/coffee.jpg");
+    background-size: cover;
+    background-position: top;
+    font-family: ;
 }

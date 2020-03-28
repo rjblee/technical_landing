@@ -4,11 +4,31 @@ body {
     background-image: url("../images/coffee.jpg");
     background-size: cover;
     background-position: top;
-    font-family: ;
+    /* font-family: 'Noto Serif', serif; */
+    font-family: 'Catamaran', serif;
+    color: white;
 }
 
 #login {
     min-width: 250px;
     background-color: rgba(255, 255, 255, 0.7);
     padding: 14px 14px 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    background-color: steelblue;
+    color: steelblue;
+}
+
+.center {
+    text-align: center;
+    padding-top: 15%;
+}
+
+.spinner-button {
+    background-color: white;
 }

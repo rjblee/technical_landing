@@ -15,6 +15,21 @@ body {
     padding: 14px 14px 0;
 }
 
+#login .social-button {
+    margin: 12px 0;
+}
+
+.btn-fb {
+    color: #fff;
+    background-color: #3b599d;
+}
+
+.btn-tw {
+    color: #fff;
+    background-color: #55acee;
+    margin-left: 10px;
+}
+
 .navbar-brand {
     font-weight: bold;
 }
